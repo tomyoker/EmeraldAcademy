@@ -11,7 +11,7 @@
 3. Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
 
 
-        <img width="841" alt="img" src="https://user-images.githubusercontent.com/41810744/155834818-dc300ed8-09f2-495e-89a4-ddd691509597.png">
+      <img width="841" alt="img" src="https://user-images.githubusercontent.com/41810744/155834818-dc300ed8-09f2-495e-89a4-ddd691509597.png">
 
 
     Optional Unwrapping 의 여러가지 방법중 한가지
@@ -21,7 +21,7 @@
     그러나 nil 일경우 에러가 뜨거나 프로그램이 중단됨 
   
   
-         ![3](https://user-images.githubusercontent.com/41810744/155835380-1771be10-7004-42f5-9fda-f15c57542acd.png)
+      ![3](https://user-images.githubusercontent.com/41810744/155835380-1771be10-7004-42f5-9fda-f15c57542acd.png)
 
 
     nil 이 지정된 변수를 Unwrapping 하려고 하면 안된다.
