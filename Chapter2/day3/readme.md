@@ -11,6 +11,19 @@
 3. Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
 
 
+  <img width="841" alt="img" src="https://user-images.githubusercontent.com/41810744/155834818-dc300ed8-09f2-495e-89a4-ddd691509597.png">
+
+
+  Optional Unwrapping 의 여러가지 방법중 한가지
+  
+  값이 nil이든 아니든 강제로 Optional Type 을 제거하는 연산자임 
+  
+  그러나 nil 일경우 프로그램이 중단됨 
+  
+  
+
+
+
 4. Using this picture below, explain...
 
 ![image](https://user-images.githubusercontent.com/41810744/155834282-12516b69-981f-47b3-a01c-effca0ff6f3e.png)
