@@ -24,7 +24,7 @@
   ![3](https://user-images.githubusercontent.com/41810744/155835380-1771be10-7004-42f5-9fda-f15c57542acd.png)
 
 
-  nil 이 지정된 변수를 Unwrapping 하면 안된다.
+  nil 이 지정된 변수를 Unwrapping 하려고 하면 안된다.
   
   
 
