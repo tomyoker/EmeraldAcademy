@@ -21,7 +21,8 @@
     그러나 nil 일경우 에러가 뜨거나 프로그램이 중단됨 
   
   
-      ![3](https://user-images.githubusercontent.com/41810744/155835380-1771be10-7004-42f5-9fda-f15c57542acd.png)
+      ![3](https://user-images.githubusercontent.com/41810744/155835678-348ef34a-0ac1-40e1-9b35-f8981b3de637.png)
+
 
 
     nil 이 지정된 변수를 Unwrapping 하려고 하면 안된다.
