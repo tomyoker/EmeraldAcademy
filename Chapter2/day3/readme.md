@@ -52,6 +52,9 @@
       0x03 은 nil 이 아니기 때문에 Force-Unwrap Operator 를 사용하여 Optional Type을 제거하면됨 
 
        ![4](https://user-images.githubusercontent.com/41810744/155834609-15df3cb4-98aa-475f-920d-909cbfd89825.png)
+       
+      함수값을 Optional Type 으로 선언?
+      
        ![q](https://user-images.githubusercontent.com/41810744/155836124-97ba6609-7166-4c2b-bddb-541090e84dc0.png)
 
        
