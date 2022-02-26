@@ -43,8 +43,8 @@
  
   - Why we're getting this error
 
-      우리가 dictionary 에 접근하면 값이 Optional Type 으로 반환되기 때문임
-      Optional Type의 자료형을 사용하기 위해선 Optional 이란 포장지를 Unwrapping 해줘야함 
+      우리가 Dictionary 에 접근하면 값이 Optional Type 으로 반환되는데 함수의 값을 Non-Optional type으로 선언했기 때문에 mismatched
+      반환된 Optional Type 을 Unwrapping 해줘야함 
     
     
   - How to fix it
@@ -52,4 +52,7 @@
       0x03 은 nil 이 아니기 때문에 Force-Unwrap Operator 를 사용하여 Optional Type을 제거하면됨 
 
        ![4](https://user-images.githubusercontent.com/41810744/155834609-15df3cb4-98aa-475f-920d-909cbfd89825.png)
+       ![q](https://user-images.githubusercontent.com/41810744/155836124-97ba6609-7166-4c2b-bddb-541090e84dc0.png)
+
+       
 
