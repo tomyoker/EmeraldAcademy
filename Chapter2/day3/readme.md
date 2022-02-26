@@ -8,3 +8,26 @@
 
   ![2](https://user-images.githubusercontent.com/41810744/155834127-3d3ad1c1-e6eb-4a68-9764-8ac47762464e.png) 
 
+3. Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
+
+
+4. Using this picture below, explain...
+
+![image](https://user-images.githubusercontent.com/41810744/155834282-12516b69-981f-47b3-a01c-effca0ff6f3e.png)
+
+
+ - What the error message means
+    
+    String Type 이 아닌 Optional String Type 이 반환되었다는 뜻
+  
+ 
+ - Why we're getting this error
+
+    우리가 dictionary 에 접근하면 값이 Optional Type 으로 반환되기 때문임
+    
+    
+ - How to fix it
+
+    0x03 은 nil 이 아니기 때문에 Force-Unwrap Operator 를 사용하여 Optional Type을 제거하면됨 
+
+  
