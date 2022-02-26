@@ -37,6 +37,7 @@
  - Why we're getting this error
 
     우리가 dictionary 에 접근하면 값이 Optional Type 으로 반환되기 때문임
+    Optional Type의 자료형을 사용하기 위해선 Optional 이란 포장지를 Unwrapping 해줘야함 
     
     
  - How to fix it
