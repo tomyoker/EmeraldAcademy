@@ -18,7 +18,13 @@
   
   값이 nil이든 아니든 강제로 Optional Type 을 제거하는 연산자임 
   
-  그러나 nil 일경우 프로그램이 중단됨 
+  그러나 nil 일경우 에러가 뜨거나 프로그램이 중단됨 
+  
+  
+  ![3](https://user-images.githubusercontent.com/41810744/155835380-1771be10-7004-42f5-9fda-f15c57542acd.png)
+
+
+  nil 이 지정된 변수를 Unwrapping 하면 안된다.
   
   
 
