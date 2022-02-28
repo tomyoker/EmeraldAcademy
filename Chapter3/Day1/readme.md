@@ -2,9 +2,7 @@
 
 1. In words, list 3 reasons why structs are different from resources.
 
-    복사되지 않음,
-    덮어쓰기가 되지 않음,
-    구조체를 다루는것보다 훨씬 어려움
+    리소스는 복사되지 않음, 리소스는 덮어쓰기가 되지 않음, 리소스는 구조체와 다르게 아무때나 만들수 없음
 
 
 2. Describe a situation where a resource might be better to use than a struct.
