@@ -77,6 +77,7 @@ pub contract Test {
         return <- myJacob // 리소스는 <- 기호를 사용하여 이동시켜야함
         
         // let myJacob <- create Jacob()의 경우 Jacob이 그냥 구조체였다면 let myJacob = Jacob() 이 가능했음.. 리소스여서 = 대신 <- 쓰고 create를 쓴것뿐임
+        // 구조체에선 let myJacob = Jacob() 이게 구조체 생성인거지 pub struct Jacob 은 설계도인거지 만든게 아님 
         //함수내에서 만들어진 리소스는 남아있으면 안됨 이동시키거나 파괴시켜야함 
         // 함수내에서 정의한 변수는 함수가 종료되면 사라지니까.. 
         // return 함수를 이용해서 이동시키거나 destroy 함수로 날려버려야함 
