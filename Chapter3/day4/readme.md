@@ -63,12 +63,12 @@ pub contract Stuff {
 
       pub fun changeGreeting(newGreeting: String): String {
         self.greeting = newGreeting
-        return self.greeting // returns the new greeting
+        return self.greeting 
       }
 
       init() {
         self.greeting = "Hello!"
-        self.favouriteFruit = "Apple" // add
+        self.favouriteFruit = "Apple" // Add
       }
     }
 
