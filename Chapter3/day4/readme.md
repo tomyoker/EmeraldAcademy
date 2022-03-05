@@ -3,11 +3,16 @@
     구현해야할 요구사항을 지정할수있음 / 특정한 사람에게 특정한 내용만 노출시킬수 있게 지정할수 있음 
     
 
+
+
 2. Define your own contract. Make your own resource interface and a resource that implements the interface. Create 2 functions. In the 1st function, show an example of not restricting the type of the resource and accessing its content. In the 2nd function, show an example of restricting the type of the resource and NOT being able to access its content.
 
     ![1](https://user-images.githubusercontent.com/41810744/156872557-d0fe261f-17d2-488d-8e89-cadd97a3f84f.png)
 
     https://play.onflow.org/dd20ca4c-b5fb-43bd-801e-93c95d32a6ea?type=account&id=66e6633c-0a39-4193-852e-94bae1a01e3e&storage=none
+
+
+
 
 3. How would we fix this code?
 
